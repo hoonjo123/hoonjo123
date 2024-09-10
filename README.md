@@ -9,5 +9,6 @@
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon030)](https://solved.ac/백준아이디/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
