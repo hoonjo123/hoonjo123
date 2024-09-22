@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hoon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
 
 ---
-
+👋🏻안녕하세요! 조 훈입니다.💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjo123)](https://github.com/anuraghazra/github-readme-stats)
 
 
