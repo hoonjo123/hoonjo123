@@ -47,14 +47,6 @@
 ### OS
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
----
-
-## 📚대외활동
-### [2023.11.01 - 2024.05.01] 한화시스템 BEYONDCAMP
-### [2024.09.03 - 2024.09.15] AWS TechCAMP
-### [2024.09.02 - 2024.09.11] WANTED BackEnd Challenge
-### [2024.09.23 - 2024.09.27] 삼성생명 금융 아카데미
-
 
 ---
 
