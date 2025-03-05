@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=%20Joheny%20World&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Joney%20World&fontSize=50)
 
 ---
 👋🏻안녕하세요! 조 훈입니다.💻
