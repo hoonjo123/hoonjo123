@@ -55,19 +55,6 @@
   - NangPaGo : 팀 프로젝트 대상
 - 한화시스템 BEYOND CAMP 2023.11 - 2024.05 (6개월)
 
-### 자격증
-- 정보처리기사
-- 빅데이터분석기사
-- SQLD
-- LinuxMaster 2급
-- SAA-C03
-- JLPT N1
-- TOEIC SPEAKING AL (170)
-
-### 학력
-- 한국외국어대학교 서울캠퍼스 일본어과 졸업(2013.03 - 2019.08 하계 졸업)
-- 광주 고려고등학교 졸업(2010.03 - 2013.02)
-
 ### Contact Me
 johoon030@gmail.com
 
