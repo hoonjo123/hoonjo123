@@ -45,16 +45,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johoon030)](https://solved.ac/profile/johoon030)
 
----
-### 경력
-- 우리아이시티(주) (SI 개발팀) 2025.03 - 재직중
-- 삼성전자(주) 리테일 2021.07 - 2023.11
-
-### 교육
-- 멋쟁이사자처럼 Like Lion 백앤드 심화코스 2024.12 - 2025.02 (3개월)
-  - NangPaGo : 팀 프로젝트 대상
-- 한화시스템 BEYOND CAMP 2023.11 - 2024.05 (6개월)
-
 ### Contact Me
 johoon030@gmail.com
 
